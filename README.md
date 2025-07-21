@@ -33,7 +33,7 @@ If you find CoMM-BIP model helpful, please cite us.
 
 ```bibtex
 @misc{vomo_donfack_2025_16281076,
-  author       = {VOMO DONFACK, Kelly Larissa and
+  author       = {Vomo Donfack, Kelly Larissa and
                   González Doblas, Verónica and
                   Morilla, Ian},
   title        = {Multimodal Learning Reveals Plants' Hidden Sensory
