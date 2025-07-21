@@ -1,0 +1,573 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-07-21T21:56:24.034092+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/MorillaLab/CoMM-BIP/",
+    "code:programmingLanguage": [
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      },
+      {
+        "id": "python_traceback",
+        "title": {
+          "en": "Python traceback"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "CoMM-BIP_v1.0.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f3f08ff6b252e826c47f2c25c7c9f16b",
+        "ext": "zip",
+        "id": "d72cf457-f669-4fd5-a4b1-6a9d7c73b9a5",
+        "key": "CoMM-BIP_v1.0.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/16281076/files/CoMM-BIP_v1.0.zip/content",
+          "self": "https://zenodo.org/api/records/16281076/files/CoMM-BIP_v1.0.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 26331850,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 26331850
+  },
+  "id": "16281076",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/16281076/access",
+    "access_grants": "https://zenodo.org/api/records/16281076/access/grants",
+    "access_links": "https://zenodo.org/api/records/16281076/access/links",
+    "access_request": "https://zenodo.org/api/records/16281076/access/request",
+    "access_users": "https://zenodo.org/api/records/16281076/access/users",
+    "archive": "https://zenodo.org/api/records/16281076/files-archive",
+    "archive_media": "https://zenodo.org/api/records/16281076/media-files-archive",
+    "communities": "https://zenodo.org/api/records/16281076/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/16281076/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.16281076",
+    "draft": "https://zenodo.org/api/records/16281076/draft",
+    "files": "https://zenodo.org/api/records/16281076/files",
+    "latest": "https://zenodo.org/api/records/16281076/versions/latest",
+    "latest_html": "https://zenodo.org/records/16281076/latest",
+    "media_files": "https://zenodo.org/api/records/16281076/media-files",
+    "parent": "https://zenodo.org/api/records/16281075",
+    "parent_doi": "https://doi.org/10.5281/zenodo.16281075",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16281075",
+    "parent_html": "https://zenodo.org/records/16281075",
+    "preview_html": "https://zenodo.org/records/16281076?preview=1",
+    "requests": "https://zenodo.org/api/records/16281076/requests",
+    "reserve_doi": "https://zenodo.org/api/records/16281076/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/16281076",
+    "self_doi": "https://doi.org/10.5281/zenodo.16281076",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16281076",
+    "self_html": "https://zenodo.org/records/16281076",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16281076/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16281076/sequence/default",
+    "versions": "https://zenodo.org/api/records/16281076/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_titles": [
+      {
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "title": "CoMM-BIP",
+        "type": {
+          "id": "alternative-title",
+          "title": {
+            "de": "Alternativer Titel",
+            "en": "Alternative title"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "title": "Contrastive multi-modal learning with biologically informed priors",
+        "type": {
+          "id": "alternative-title",
+          "title": {
+            "de": "Alternativer Titel",
+            "en": "Alternative title"
+          }
+        }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "id": "0199hds37",
+            "identifiers": [
+              {
+                "identifier": "0199hds37",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.11318.3a",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2149 6883",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Universit\u00e9 Sorbonne Paris Nord"
+          },
+          {
+            "id": "04nrv3s86",
+            "identifiers": [
+              {
+                "identifier": "04nrv3s86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507634.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 6478 8028",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\""
+          }
+        ],
+        "person_or_org": {
+          "family_name": "VOMO DONFACK",
+          "given_name": "Kelly Larissa",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-2799-2472",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "VOMO DONFACK, Kelly Larissa",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researchgroup",
+          "title": {
+            "de": "Forschungsgruppe",
+            "en": "Research group"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "04nrv3s86",
+            "identifiers": [
+              {
+                "identifier": "04nrv3s86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507634.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 6478 8028",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\""
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Gonz\u00e1lez Doblas",
+          "given_name": "Ver\u00f3nica",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5476-3228",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Gonz\u00e1lez Doblas, Ver\u00f3nica",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "copyright": "Copyright (C) 2025 MLiMO (Morilla lab)",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "0199hds37",
+            "identifiers": [
+              {
+                "identifier": "0199hds37",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.11318.3a",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2149 6883",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Universit\u00e9 Sorbonne Paris Nord"
+          },
+          {
+            "id": "04nrv3s86",
+            "identifiers": [
+              {
+                "identifier": "04nrv3s86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507634.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 6478 8028",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\""
+          }
+        ],
+        "person_or_org": {
+          "family_name": "VOMO DONFACK",
+          "given_name": "Kelly Larissa",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-2799-2472",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "VOMO DONFACK, Kelly Larissa",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researchgroup",
+          "title": {
+            "de": "Forschungsgruppe",
+            "en": "Research group"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "04nrv3s86",
+            "identifiers": [
+              {
+                "identifier": "04nrv3s86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507634.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 6478 8028",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\""
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Gonz\u00e1lez Doblas",
+          "given_name": "Ver\u00f3nica",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5476-3228",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Gonz\u00e1lez Doblas, Ver\u00f3nica",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "04nrv3s86",
+            "identifiers": [
+              {
+                "identifier": "04nrv3s86",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507634.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 6478 8028",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\""
+          },
+          {
+            "id": "0199hds37",
+            "identifiers": [
+              {
+                "identifier": "0199hds37",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.11318.3a",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2149 6883",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Universit\u00e9 Sorbonne Paris Nord"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Morilla",
+          "given_name": "Ian",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5100-5990",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Morilla, Ian",
+          "type": "personal"
+        },
+        "role": {
+          "id": "projectleader",
+          "title": {
+            "de": "ProjektleiterIn",
+            "en": "Project leader"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-07-21",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        }
+      }
+    ],
+    "description": "<p>CoMM-BIP (Contrastive Multimodal Model with Biological Informed Priors) is an interpretable deep learning framework that integrates transcriptomic, metabolomic, phenomic, and environmental data to predict multi-sensory effector responses in plants. Key features:</p>\n<ul>\n<li>\n<p><strong>Biologically Guided Design</strong>: Hardcodes domain knowledge through:</p>\n<ul>\n<li>\n<p><em>BiologicalPriorLayer</em>&nbsp;(upweights known functional genes/metabolites)</p>\n</li>\n<li>\n<p><em>PathwayGuidedAttention</em>&nbsp;(models cross-modal interactions)</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Multimodal Fusion</strong>: Combines four data types using contrastive learning (NTXentLoss) and cross-modal attention.</p>\n</li>\n<li>\n<p><strong>State-of-the-Art Performance</strong>: Achieves 0.98 F1 score and 0.99 AUROC, outperforming unimodal baselines by 15-35%.</p>\n</li>\n<li>\n<p><strong>Interpretability</strong>: Provides attention matrices and SHAP values for biological insights.</p>\n</li>\n</ul>\n<p>The repository includes:</p>\n<ul>\n<li>\n<p>Pretrained PyTorch model (<code>*.pt</code>&nbsp;file)</p>\n</li>\n<li>\n<p>Training/evaluation scripts (<code>train.py</code>)</p>\n</li>\n<li>\n<p>Example notebooks for visualization</p>\n</li>\n<li>\n<p>Configuration files for reproducibility</p>\n</li>\n</ul>\n<p><strong>Applications</strong>:</p>\n<ul>\n<li>\n<p>Plant-pathogen interaction studies</p>\n</li>\n<li>\n<p>Multimodal biomarker discovery</p>\n</li>\n<li>\n<p>Interpretable ML for biological systems</p>\n</li>\n</ul>\n<p><strong>Technical Details</strong>:</p>\n<ul>\n<li>\n<p>Framework: PyTorch Lightning</p>\n</li>\n<li>\n<p>Language: Python 3.8+</p>\n</li>\n<li>\n<p>License: MIT</p>\n</li>\n</ul>",
+    "funding": [
+      {
+        "award": {
+          "number": "ProyExec\\_0499"
+        },
+        "funder": {
+          "id": "01jem9c82",
+          "name": "Junta de Andaluc\u00eda"
+        }
+      },
+      {
+        "award": {
+          "number": "PID2020-113378RA-I00"
+        },
+        "funder": {
+          "id": "05r0vyz12",
+          "name": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades"
+        }
+      }
+    ],
+    "publication_date": "2025-07-21",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "E-MTAB-13691",
+        "relation_type": {
+          "id": "isderivedfrom",
+          "title": {
+            "de": "Wird abgeleitet von",
+            "en": "Is derived from"
+          }
+        },
+        "resource_type": {
+          "id": "dataset",
+          "title": {
+            "de": "Datensatz",
+            "en": "Dataset"
+          }
+        },
+        "scheme": "other"
+      }
+    ],
+    "resource_type": {
+      "id": "model",
+      "title": {
+        "de": "Modell",
+        "en": "Model"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "id": "euroscivoc:933",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/527ab165-56f2-4020-8975-e7cd3f21d01d",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:23,euroscivoc:47,euroscivoc:297"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Machine learning"
+      },
+      {
+        "subject": "multimodal integration"
+      },
+      {
+        "subject": "plant-microbe interactions"
+      },
+      {
+        "subject": "interpretable AI"
+      },
+      {
+        "subject": "PyTorch"
+      },
+      {
+        "subject": "biological prior"
+      },
+      {
+        "subject": "plant systems biology"
+      }
+    ],
+    "title": "Multimodal Learning Reveals Plants' Hidden Sensory Integration Logic",
+    "version": "1.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1093094"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "16281075",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.16281075",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.16281076",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:16281076",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-07-21T21:56:24.267557+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
