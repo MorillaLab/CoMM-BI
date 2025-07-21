@@ -9,7 +9,7 @@ Multimodal Learning Reveals Plants' Hidden Sensory Integration Logic
 <div align="center">
 <img src="docs/overview.png" width="600" alt="Model architecture">
 </div>
-Predict pathogen effectors by integrating transcriptomic, metabolomic, and phenomic data with biologically informed machine learning.
+Predict plant-microbe effectors by integrating transcriptomic, metabolomic, and phenomic data with biologically informed machine learning.
 
 ## Features
 - **Biologically guided attention**: Prioritizes known gene-metabolite interactions.
