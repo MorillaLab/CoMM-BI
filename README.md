@@ -37,14 +37,12 @@ If you find CoMM-BIP model helpful, please cite us.
                   González Doblas, Verónica and
                   Morilla, Ian},
   title        = {Multimodal Learning Reveals Plants' Hidden Sensory
-                   Integration Logic
-                  },
+                   Integration Logic},
   month        = jul,
   year         = 2025,
   publisher    = {Zenodo},
   version      = {1.0},
   doi          = {10.5281/zenodo.16281076},
-  url          = {https://doi.org/10.5281/zenodo.16281076},
-}
+  url          = {https://doi.org/10.5281/zenodo.16281076}
 }
 ```
