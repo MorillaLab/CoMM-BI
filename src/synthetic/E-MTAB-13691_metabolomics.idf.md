@@ -4,9 +4,8 @@
 |------------------------|---------|
 | **Investigation Title** | Metabolomic profiling of tomato (*Solanum lycopersicum*) hairy roots expressing *Rhizophagus irregularis* effectors |
 | **Experimental Design** | LC-MS analysis of T-DNA transformed roots 24h post-induction with β-estradiol (10µM) |
-| **Protocol Reference**  | [P-MTAB-13691-MET](https://www.ebi.ac.uk/metabolights/MTBLS13691) |
 
-### Protocols
+### Synthetic Protocols
 | Type                      | Parameters |
 |---------------------------|------------|
 | **Metabolite Extraction** | - Quenching: 80% methanol (-20°C) <br> - Solvent: 40:40:20 ACN:MeOH:H₂O + 0.1% formic acid |
