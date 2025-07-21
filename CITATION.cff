@@ -38,10 +38,10 @@ references:
 preferred-citation:
   type: software
   authors:
-    - family-names: "YourLastName"
-      given-names: "YourFirstName"
-  title: "CoMM-BIP: Cross-modal Multimodal Model with Biological Informed Priors"
+    - family-names: "Morilla"
+      given-names: "Ian"
+  title: "CoMM-BIP: Contrasrive Multimodal Model with Biological Informed Priors"
   version: 1.0.0
-  doi: 10.5281/zenodo.XXXXXXX
-  year: 2024
-  repository-code: "https://github.com/yourusername/CoMM-BIP"
+  doi: 10.5281/zenodo.16281076
+  year: 2025
+  repository-code: "https://github.com/MorillaLab/CoMM-BIP"
