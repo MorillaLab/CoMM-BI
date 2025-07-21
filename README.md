@@ -1,4 +1,4 @@
-# CoMM-BIP
+# Article
 Multimodal Learning Reveals Plants' Hidden Sensory Integration Logic
 
 # CoMM-BIP: Multimodal Integration with Biological Priors
