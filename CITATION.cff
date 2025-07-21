@@ -1,0 +1,47 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use CoMM-BIP in your research, please cite both this software and the accompanying paper."
+title: "CoMM-BIP: Cross-modal Multimodal Model with Biological Informed Priors"
+abstract: "A machine learning framework for interpretable integration of transcriptomic, metabolomic, phenomic, and environmental data with biological prior knowledge."
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX  # Replace with your Zenodo DOI
+license: MIT
+repository-code: "https://github.com/yourusername/CoMM-BIP"
+keywords:
+  - "machine learning"
+  - "multimodal integration"
+  - "plant-pathogen interactions"
+  - "interpretable AI"
+  - "biological prior knowledge"
+
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    affiliation: "Your University"
+    email: "your@email.edu"
+  # Add co-authors here
+
+references:
+  - type: article
+    authors:
+      - family-names: "YourLastName"
+        given-names: "YourFirstName"
+    title: "Biological prior-guided multimodal learning for plant effector prediction"
+    journal: "Nature Machine Intelligence"  # Example
+    year: 2024
+    doi: 10.XXXX/XXXXXX  # Paper DOI
+    volume: "X"
+    issue: "X"
+    pages: "XX-XX"
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "YourLastName"
+      given-names: "YourFirstName"
+  title: "CoMM-BIP: Cross-modal Multimodal Model with Biological Informed Priors"
+  version: 1.0.0
+  doi: 10.5281/zenodo.XXXXXXX
+  year: 2024
+  repository-code: "https://github.com/yourusername/CoMM-BIP"
