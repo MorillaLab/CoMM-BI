@@ -21,7 +21,7 @@ Predict plant-microbe effectors by integrating transcriptomic, metabolomic, and 
 git clone https://github.com/MorillaLab/CoMM-BIP.git
 pip install -r requirements.txt
 python src/train.py --data_dir ./data
-
+```
 
 <!-- ============================================== -->
 <div align="left">
