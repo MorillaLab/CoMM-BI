@@ -4,7 +4,7 @@ message: "If you use CoMM-BIP in your research, please cite both this software a
 title: "CoMM-BIP: Cross-modal Multimodal Model with Biological Informed Priors"
 abstract: "A machine learning framework for interpretable integration of transcriptomic, metabolomic, phenomic, and environmental data with biological prior knowledge."
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX  # Replace with your Zenodo DOI
+doi: 10.5281/zenodo.16281076  # Zenodo DOI
 license: MIT
 repository-code: "https://github.com/yourusername/CoMM-BIP"
 keywords:
