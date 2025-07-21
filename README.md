@@ -36,8 +36,7 @@ If you find CoMM-BIP model helpful, please cite us.
   author       = {VOMO DONFACK, Kelly Larissa and
                   González Doblas, Verónica and
                   Morilla, Ian},
-  title        = {Multimodal Learning Reveals Plants' Hidden Sensory
-                   Integration Logic},
+  title        = {Multimodal Learning Reveals Plants' Hidden Sensory Integration Logic},
   month        = jul,
   year         = 2025,
   publisher    = {Zenodo},
