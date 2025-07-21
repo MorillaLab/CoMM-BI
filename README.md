@@ -17,6 +17,6 @@ Predict pathogen effectors by integrating transcriptomic, metabolomic, and pheno
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/CoMM-BIP.git
+git clone https://github.com/MorillaLab/CoMM-BIP.git
 pip install -r requirements.txt
 python src/train.py --data_dir ./data
